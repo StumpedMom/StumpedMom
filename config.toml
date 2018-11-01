@@ -1,0 +1,101 @@
+baseURL = "https://StumpedMom.github.io/"
+languageCode = "en-us"
+title = "Stumped Mom"
+theme = "den"
+rssLimit = 20
+
+# copyRight, In footer
+copyright = "Stumped Mom"
+
+# pagination
+pagination = 15
+paginatePath = "page"
+
+# service plugins
+disqusShortname = ""         # disqus_shortname
+googleAnalytics = "" # UA-XXXXXXXX-X
+
+#language support
+defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguageInSubdir = true
+
+# Links format
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+  categories = "/category/:slug/"      # required
+  tags = "/tag/:slug/"                 # required
+  pages = "/:slug/"
+
+[author]                     # required
+name = "Stumped Mom"
+
+[sitemap]                    # required
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# ------------------------------------- #
+# ---- Other Params ------------------- #
+# ------------------------------------- #
+
+[params]
+  since = "2018" 
+	rssFullContent = true
+
+# site info
+	keywords = ["StumpedMom", "Blog"]
+	description =  "Stumped Mom is here to slay!"
+	LogoTitle = "Stumped Mom"
+	headerImage = "images/hero_img.jpg"
+
+  showMenuLanguages = true
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+# ------------------------------------- #
+# ---- Related Articles --------------- #
+# ------------------------------------- #
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 50
+
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = true
+
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 200
+
+[[related.indices]]
+  name = "keywords"
+  weight = 150
+
+[[related.indices]]
+  name = "tags"
+  weight = 100
+
+
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+
+ 
+
+     [[languages.en.menu.main]]
+       name = "Posts"
+       weight = 20
+       identifier = "posts"
+	     url = "category/posts/"
+
+    [[languages.en.menu.social]]
+      name = "Twitter"
+      weight = 10
+      identifier = "twitter"
+      url = "https://twitter.com/StumpedMom"
+
+   
