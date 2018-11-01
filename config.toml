@@ -1,5 +1,6 @@
-baseURL = "https://StumpedMom.github.io/"
+baseURL = "https://StumpedMom.github.io/StumpedMom"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Stumped Mom"
 theme = "den"
 rssLimit = 20
