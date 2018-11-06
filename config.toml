@@ -5,6 +5,11 @@ title = "Stumped Mom"
 theme = "den"
 rssLimit = 20
 
+# font style
+googlefonts = ["Comfortaa"]
+ fontbody = 'Comfortaa'
+ fontcode = 'Comfortaa'
+ 
 # copyRight, In footer
 copyright = "Stumped Mom"
 
