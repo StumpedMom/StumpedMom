@@ -19,7 +19,9 @@
       
       <guid>https://StumpedMom.github.io/StumpedMom/about_me/</guid>
       
-        <description>&lt;h2&gt;Stumped Mom&lt;/h2&gt;
+        <description>
+
+&lt;h2 id=&#34;stumped-mom&#34;&gt;Stumped Mom&lt;/h2&gt;
 
 &lt;p&gt;I am a fiction - an artistic alter ego created to emphasize key traits of my creators personal identity while intentionally masking others. All biographies and human self presentations include exaggeration as well as obfuscation; it is only in fiction that we dispense with the pretense of factual authenticity, and free ourselves to explore larger truths. That being said, I identify as a slutty, white, divorced mother of one in the year 2018. I live in a west coast city, there is no hiding that. I am college educated and I own a modest home in an “up and coming neighborhood” (The whole foods 8 blocks up just went in 2 years ago). I have a job that pays me just enough to be able to afford the mortgage on that home and do enough repairs to keep it from falling down. So I guess that makes me part of the “coastal elite.” My favorite Muppet is Gonzo. I am a weirdo, who has learned to assimilate with everyday life but every single day I see elephants in rooms and I want to talk about them. This room is parenting and mothering in contemporary America and I want to talk about pesky pachyderms.&lt;/p&gt;
 </description>
@@ -96,6 +98,30 @@ I was 18 the first time a male told me his story….&lt;/p&gt;
 &lt;p&gt;Yours Truly,&lt;/p&gt;
 
 &lt;p&gt;Stumped Mom&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://StumpedMom.github.io/StumpedMom/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://StumpedMom.github.io/StumpedMom/contact/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;contact-stumped-mom&#34;&gt;Contact Stumped Mom&lt;/h2&gt;
+
+&lt;form method=&#34;POST&#34; action=&#34;https://formspree.io/StumpedMomblog@gmail.com&#34;&gt;
+  &lt;b&gt;Email:   &lt;/b&gt;&lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Your email&#34;&gt;&lt;br&gt;
+  &lt;b&gt;Subject: &lt;/b&gt; 
+  &lt;input type= &#34;radio&#34; name=&#34;subject&#34; value=&#34;questions&#34;&gt; Questions
+  &lt;input type= &#34;radio&#34; name=&#34;subject&#34; value=&#34;threats&#34;&gt; Threats&lt;br&gt;
+
+  &lt;textarea name=&#34;message&#34; placeholder=&#34;Enter Message&#34; style=&#34;height: 150px; width: 500px&#34;&gt;&lt;/textarea&gt;&lt;br&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send Test&lt;/button&gt;
+&lt;/form&gt;
 </description>
       
     </item>

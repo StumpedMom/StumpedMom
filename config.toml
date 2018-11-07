@@ -83,7 +83,6 @@ name = "Stumped Mom"
   name = "tags"
   weight = 100
 
-
   [languages.en]
     languageCode = "en"
     languageName = "English"
@@ -103,5 +102,11 @@ name = "Stumped Mom"
       weight = 10
       identifier = "twitter"
       url = "https://twitter.com/StumpedMom"
+
+    [[languages.en.menu.Links]]
+      name ="Contact"
+      weight = 5
+      indentifier = "contact"
+      url = "/contact/"
 
    
