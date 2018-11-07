@@ -9,7 +9,7 @@ Authors:
 
 ---
 
-**How we got here?**
+## How we got here?
 
 Dear reader:
 
