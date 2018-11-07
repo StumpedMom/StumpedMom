@@ -9,9 +9,7 @@ Authors:
 
 ---
 
-## How we got here?
-
-Dear reader:
+## Dear reader:
 
 All endeavors must have a beginning and this endeavor will begin with an attempt to answer a question. How did we get here? We; being you the reader me the writer. Here being the virtual space that manifests itself in this blog. 
 
