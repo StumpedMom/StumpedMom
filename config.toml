@@ -9,12 +9,12 @@ rssLimit = 20
 googlefonts = ["Comfortaa"]
  fontbody = 'Comfortaa'
  fontcode = 'Comfortaa'
- 
+
 # copyRight, In footer
 copyright = "Stumped Mom"
 
 # pagination
-pagination = 15
+pagination = 2
 paginatePath = "page"
 
 # service plugins

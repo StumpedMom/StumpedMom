@@ -3,15 +3,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/2018/11/01/about-me/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <loc>https://StumpedMom.github.io/StumpedMom/about_me/</loc>
+    <lastmod>2018-10-14T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/2018/11/01/how-did-we-get-here/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <loc>https://StumpedMom.github.io/StumpedMom/2018/11/01/no-duh/</loc>
+    <lastmod>2018-11-01T19:56:48-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://StumpedMom.github.io/StumpedMom/2018/10/25/how-did-we-get-here/</loc>
+    <lastmod>2018-10-25T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,35 +31,42 @@
   
   <url>
     <loc>https://StumpedMom.github.io/StumpedMom/tag/features/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <lastmod>2018-10-25T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://StumpedMom.github.io/StumpedMom/posts/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://StumpedMom.github.io/StumpedMom/category/posts/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://StumpedMom.github.io/StumpedMom/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <lastmod>2018-10-14T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://StumpedMom.github.io/StumpedMom/tags/</loc>
-    <lastmod>2018-11-01T13:21:38-07:00</lastmod>
+    <lastmod>2018-10-25T12:27:38-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://StumpedMom.github.io/StumpedMom/tag/the-body-politic/</loc>
+    <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
