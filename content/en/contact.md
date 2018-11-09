@@ -13,4 +13,5 @@ draft: false
 
   <textarea name="message" placeholder="Enter Message" style="height: 150px; width: 500px"></textarea><br>
   <button type="submit">Send</button>
+  
 </form>
