@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://StumpedMom.github.io/StumpedMom/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://StumpedMom.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/about_me/</loc>
+    <loc>https://StumpedMom.com/about_me/</loc>
     <lastmod>2018-10-14T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/2018/11/01/no-duh/</loc>
+    <loc>https://StumpedMom.com/2018/11/01/no-duh/</loc>
     <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/2018/10/25/how-did-we-get-here/</loc>
+    <loc>https://StumpedMom.com/2018/10/25/how-did-we-get-here/</loc>
     <lastmod>2018-10-25T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/categories/</loc>
+    <loc>https://StumpedMom.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/contact/</loc>
+    <loc>https://StumpedMom.com/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/tag/features/</loc>
+    <loc>https://StumpedMom.com/tag/features/</loc>
     <lastmod>2018-10-25T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/posts/</loc>
+    <loc>https://StumpedMom.com/posts/</loc>
     <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/category/posts/</loc>
+    <loc>https://StumpedMom.com/category/posts/</loc>
     <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/</loc>
+    <loc>https://StumpedMom.com/</loc>
     <lastmod>2018-10-14T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/tags/</loc>
+    <loc>https://StumpedMom.com/tags/</loc>
     <lastmod>2018-10-25T12:27:38-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://StumpedMom.github.io/StumpedMom/tag/the-body-politic/</loc>
+    <loc>https://StumpedMom.com/tag/the-body-politic/</loc>
     <lastmod>2018-11-01T19:56:48-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
