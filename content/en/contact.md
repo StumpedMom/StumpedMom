@@ -12,5 +12,5 @@ draft: false
   <input type= "radio" name="subject" value="threats"> Threats<br>
 
   <textarea name="message" placeholder="Enter Message" style="height: 150px; width: 500px"></textarea><br>
-  <button type="submit">Send Test</button>
+  <button type="submit">Send</button>
 </form>
