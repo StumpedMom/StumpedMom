@@ -8,6 +8,8 @@ Authors:
 - "Stumped Mom"
 ---
 
+_A word of caution: The following post has heavy feels and addresses sexual trauma._
+
 ## #NoDuh
 
 I was eleven the first time a friend confided in me that she had been sexually abused.
