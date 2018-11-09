@@ -19,7 +19,7 @@ paginatePath = "page"
 
 # service plugins
 disqusShortname = ""         # disqus_shortname
-googleAnalytics = "" # UA-XXXXXXXX-X
+googleAnalytics = "UA-128973999-1" # UA-XXXXXXXX-X
 
 #language support
 defaultContentLanguage = "en"           # Default language to use
