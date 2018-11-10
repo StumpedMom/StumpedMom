@@ -1,5 +1,5 @@
 ---
-title: "How did we get here"
+title: "How did we get here?"
 date: 2018-10-25T12:27:38-07:00
 draft: false
 tags: ["Features"]
