@@ -39,8 +39,8 @@ canonifyURLS = true
 name = "Stumped Mom"
 
 [sitemap]                    # required
-  changefreq = "weekly"
-  priority = 0.5
+  changefreq = "daily"
+  priority = 0.7
   filename = "sitemap.xml"
 
 # ------------------------------------- #
