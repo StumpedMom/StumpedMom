@@ -14,7 +14,7 @@ googlefonts = ["Comfortaa"]
 copyright = "Stumped Mom"
 
 # pagination
-pagination = 2
+pagination = 10
 paginatePath = "page"
 
 # service plugins
