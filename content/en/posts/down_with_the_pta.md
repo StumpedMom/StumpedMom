@@ -8,7 +8,7 @@ draft: false
 
 ## Down with the PTA!
 
-No bourjois institution makes me want to lock arms with my proletariat brethren and forcibly seize the means of production from the soft, plump hands of our capitalist overlords quite like the Parent Teacher Association otherwise known as PTAs or PTOs .
+No bourgeoisie institution makes me want to lock arms with my proletariat brethren and forcibly seize the means of production from the soft, plump hands of our capitalist overlords quite like the Parent Teacher Association otherwise known as PTAs or PTOs .
 
 Their reasons for existing and means of sustaining themselves are entirely dependent of systems and structures that perpetuate inequality.
 
