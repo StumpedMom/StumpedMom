@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>https://StumpedMom.com/2018/11/15/what-to-cook-this-thanksgiving/</loc>
+    <lastmod>2018-11-15T14:27:00-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>https://StumpedMom.com/2018/11/13/down-with-the-pta/</loc>
     <lastmod>2018-11-13T10:33:00-08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -51,14 +58,14 @@
   
   <url>
     <loc>https://StumpedMom.com/posts/</loc>
-    <lastmod>2018-11-13T10:33:00-08:00</lastmod>
+    <lastmod>2018-11-15T14:27:00-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://StumpedMom.com/category/posts/</loc>
-    <lastmod>2018-11-13T10:33:00-08:00</lastmod>
+    <lastmod>2018-11-15T14:27:00-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
@@ -66,6 +73,13 @@
   <url>
     <loc>https://StumpedMom.com/</loc>
     <lastmod>2018-10-14T12:27:38-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://StumpedMom.com/tag/sunday-cooking/</loc>
+    <lastmod>2018-11-15T14:27:00-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
