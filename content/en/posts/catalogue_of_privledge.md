@@ -64,4 +64,5 @@ I plan to update this list as my consciousness expands.
 			I don’t want to talk about this there is no way to talk about it without “humble bragging” and no one likes humble braggers. It’s a thing and it has been shown to make the world more well disposed toward me than it otherwise could be.
 		</td>
 	</tr>
-</table>                                                                    
+</table>        
+                                                            

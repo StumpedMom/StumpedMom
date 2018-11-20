@@ -18,7 +18,7 @@ pagination = 10
 paginatePath = "page"
 
 # service plugins
-disqusShortname = ""         # disqus_shortname
+disqusShortname = "stumpedmom"         # disqus_shortname
 googleAnalytics = "UA-128973999-1" # UA-XXXXXXXX-X
 
 #language support
