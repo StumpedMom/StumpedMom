@@ -8,7 +8,7 @@ Authors:
 draft: false
 ---
 
-# The Casual Cruelty of Scrooge Shaming
+## The Casual Cruelty of Scrooge Shaming
 
 
 _Proceed with care and self directed compassion.This post deals with trauma triggers surrounding the loss of a child._
