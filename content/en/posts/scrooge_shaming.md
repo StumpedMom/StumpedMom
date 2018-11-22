@@ -3,6 +3,8 @@ title: "Scrooge Shaming"
 date: 2018-11-22
 tags: ["Opinion"]
 categories: ["Posts"]
+Authors:
+- "Stumped Mom"
 draft: false
 ---
 
