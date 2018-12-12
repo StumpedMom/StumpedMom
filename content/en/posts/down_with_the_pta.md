@@ -1,13 +1,3 @@
----
-title: "Down with the PTA!"
-date: 2018-11-13T10:33:00-08:00
-tags: ["Features"]
-categories: ["Posts"]
-draft: false
----
-
-## Down with the PTA!
-
 No bourgeoisie institution makes me want to lock arms with my proletariat brethren and forcibly seize the means of production from the soft, plump hands of our capitalist overlords quite like the Parent Teacher Association otherwise known as PTAs or PTOs .
 
 Their reasons for existing and means of sustaining themselves are entirely dependent of systems and structures that perpetuate inequality.
@@ -25,7 +15,7 @@ Parents with organizational skills and spare time
 A Community with Resources and Capital
 Relationships and Connections between those parents and the people with the Capital
 
-All of these critical components more abundant in more affluent communities, which thanks to the well documented racial income gap in this country, are overwhelmingly white. PTA participation is also a ladies game, with Mom’s far outnumbering Dad’s in participation. So the pressure to join and support the PTA weights heavily on women adding to their emotional labor burden and straining marriages. 
+All of these critical components more abundant in more affluent communities, which thanks to the well documented racial income gap in this country, are overwhelmingly white. PTA participation is also a ladies game, with Mom’s far outnumbering Dad’s in participation. So the pressure to join and support the PTA weighs heavily on women adding to their emotional labor burden and straining marriages. 
 
 Don’t just take my word for it. Reports show that PTA fundraising contributes to the achievement gap, that has been well documented, between white and affluent neighborhoods and communities with less resources.  And even in diverse or well integrated schools white parents hold a disproportionate influence over decision making.
 
@@ -37,4 +27,4 @@ In a more just society we would stop valorizing the systemic hoarding of privile
 
 But those PTA invitations won’t stop. So what’s a woke parent to do? The next time a PTA pusher approaches me on the school yard. Here is what I’m saying:
 
-“No thanks I’m going to invest what little spare time I have in direct involvement in the classroom and any spare resources I have will be dedicated to campaigns for just and equal schools,”  but I’m also gonna wait till my daughter is ready to start our daily foot-race home before I shout “DOWN WITH THE PTA” as I flee the scene. For PTA Moms are brutal are as brutal as they are industrious and I’m not hanging around for a beating. 
+“No thanks I’m going to invest what little spare time I have in direct involvement in the classroom and any spare resources I have will be dedicated to campaigns for just and equal schools,”  but I’m also gonna wait till my daughter is ready to start our daily foot-race home before I shout “DOWN WITH THE PTA” as I flee the scene. For PTA Moms are as brutal as they are industrious and I’m not hanging around for a beating. 
