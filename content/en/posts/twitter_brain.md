@@ -9,8 +9,9 @@ draft: false
 ## Twitter Brain
 
 Twitter Brain; Noun:
-The condition resulting from excessive attention to Twitter characterized by intense effort toward building your personal brand  and attracting new followers.
-A person who thinks too much about their Twitter following. 
+
+1. The condition resulting from excessive attention to Twitter characterized by intense effort toward building your personal brand  and attracting new followers.
+2. A person who thinks too much about their Twitter following. 
 
 Example: 
 _Stump Mom’s writing and research and overall attention were suffering because she had Twitter Brain._ 
