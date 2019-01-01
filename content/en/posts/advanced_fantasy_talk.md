@@ -1,7 +1,9 @@
 ---
 title: "Advanced Fantasy Talk"
-date: 2018-12-31T21:27:30-08:00
-draft: true
+date: 2019-01-01
+tags: ["Cyber Sluttery", "Features"]
+categories: ["Posts"]
+draft: false
 ---
 ## Advanced Fantasy Talk
 
@@ -14,7 +16,7 @@ Two entries ago I promised to get into some more advanced fantasy tips and I am 
 
 2. Voyeurs:  A true voyeur is a gem and they are actually hard to find. Most of us enjoy watching sexual acts but few of us fetishize looking but not touching. My first threesome was with a woman who we only brought home to watch but she couldn’t keep her hands off, she turned out to be a marriage wrecking rhinoceros disguised as a unicorn.  That being said a true voyeur as a fantasy talk partner is great if you enjoy spinning a sexy yarn voyeurs will eagerily lap up sexy stories past future and present especially if you give them space to be the watcher in those stories. 
 
-3. Masochists: My armchair theory about masochists is that they are show offs. Every middle school kid who has gotten a hold of H.P. lovecraft thinks they have discovered the secret to the pain pleasure cycle. There is some complex a [neurological and hormonal](https://docs.google.com/document/d/1AqlmGBfOleEPsgu6qk53njEPqtlg2ty2guz-KrIVa0E/edit) stuff that goes on with pain and the neural pathways during sex and everyone is a bit different. What I find  gets masochists off is being able to impress you with how much pain they can take. If you have one in fantasy talk they will be very excited to talk about how you’d like to push their limits. 
+3. Masochists: My armchair theory about masochists is that they are show offs. Every middle school kid who has gotten a hold of H.P. lovecraft thinks they have discovered the secret to the pain pleasure cycle. There is some complex a [neurological and hormonal](https://bodyinmind.org/pain-pleasure-relationship/) stuff that goes on with pain and the neural pathways during sex and everyone is a bit different. What I find  gets masochists off is being able to impress you with how much pain they can take. If you have one in fantasy talk they will be very excited to talk about how you’d like to push their limits. 
 
 4. Sadists: I try not to judge but I have never stuck around to find out what makes a true sadist tick and I would advise anyone who thinks they have encountered a true sadist to avoid. But the S in and M is usually about playing the part just enough to make it exciting it’s not about getting off on hurting people.  Most people who will willingly dish out a little bit of pain with pleasure are people pleasing dominants who are excited by pushing boundaries and breaking social scripts. If someone surpases your boundaries and hurts you in a way you did not want for their own pleasure it is assault. I am switchy and I also know a bit about joint locks. When I am dominating I’ll administer a bit of pain to enhance my partners excitement but I recoil at the idea of causing pain for its own sake or allowing someone to do the same to me. 
 
