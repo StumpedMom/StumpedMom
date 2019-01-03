@@ -1,6 +1,6 @@
 ---
 title: "My Struggle With Ableism"
-date: 2019-01-02T23:49:09-08:00
+date: 2019-01-03T23:49:09-08:00
 tags: ["The Body Politic"]
 categories: ["Posts"]
 draft: false
