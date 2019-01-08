@@ -1,7 +1,7 @@
 ---
 title: "Owning Sex"
 date: 2019-01-08T10:05:49-08:00
-tags: ["Cyber Slut", "Nerds Only"]
+tags: ["Cyber Sluttery", "Nerds Only"]
 categories: ["Posts"]
 draft: false
 ---
