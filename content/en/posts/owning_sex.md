@@ -10,7 +10,6 @@ draft: false
 
 Dear Stumpers:
 
-
 This past week, I received my first feedback from a self described, lifestyle kinkster, about the #cyberslut. I admit, I went out on a limb and inserted myself into their conversation, hoping to reach out to new audiences and expand my reach. This feedback described some of my assertions as inaccurate fundamentally wrong. I asked them to share resources on the topics but they did not respond. I am no stranger to criticism of my position, style or punctuation, but rarely have I ever been accused of being inaccurate or fundamentally wrong and certainly not by a person who wasn’t prepared with sources of information to directly refute my claims.This spurned me on a deep level of academic pride and caused me to question my grounds upon which I wished to stake my position.
 
 <img src = "../../../../images/mouth.jpeg" style="width:320px;height:213px;float:left;margin-top:0px;margin-bottom:0px; margin-right: 15px;">
