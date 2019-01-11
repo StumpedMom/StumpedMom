@@ -106,6 +106,12 @@ name = "Stumped Mom"
       identifier = "twitter"
       url = "https://twitter.com/StumpedMom"
 
+    [[languages.en.menu.social]]
+      name = "Facebook"
+      weight = 5
+      indentifier = "facebook"
+      url = "https://www.facebook.com/Stumped-Mom-1950337121679970/"
+
     [[languages.en.menu.Links]]
       name ="Contact"
       weight = 5
