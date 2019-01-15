@@ -6,7 +6,7 @@ categories: ["Posts"]
 draft: false
 ---
 
-# What to Cook this Thanksgiving
+## What to Cook this Thanksgiving
 
 Is Thanksgiving the only day of the year that you get serious about cooking?  If you’re like most Americans it probably is. [Recent surveys](https://www.usatoday.com/story/money/personalfinance/2017/09/27/90-americans-dont-like-cook-and-its-costing-them-thousands-each-year/708033001/) and market trends like meal kits and steady restaurant growth as well as the ever popularity of processed and frozen foods indicate that most Americans don’t cook.  Cooking,like so many other activities in America has become a commodified spectector’s sport. While less than 15% of us enjoy cooking, [80% of us enjoy](https://www.marketingcharts.com/television-13719) watching cooking shows. Thanksgiving, however centers around a traditional old fashioned home-cooked meal. Our popular images of this Holiday include friends and family gathered around a copious meal produced with loving care. For one day a year millions of would be home cooks roll up their sleeves, open up cookbooks, consult packaging instructions, and even more likely cooking blogs, and get to work. And the results? They are mostly pathetic.  Millions of Turkeys are lead to the slaughter for the Holiday and most of them turn out dry, over oiled, under flavored or fall victim to countless other faux pas.  To eat these birds family members drown the meat in overcooked gravy.  Hundreds of thousands of us pretend to enjoy dishes so dreadful they only get made once a year.  Meanwhile millions of pounds of food waste are produced because too many people are trying to get in on the cooking action. 
 
