@@ -3,7 +3,7 @@ title: "Supermarket Segregation"
 date: 2019-01-20T10:32:10-08:00
 tags: ["Features","The Body Politic"]
 categories: ["Posts"]
-draft: false
+draft: true
 ---
 
 ## Supermarket Segregation
