@@ -26,6 +26,12 @@
   .container {
     width: 850px;
   }
+  .rImage {
+    float: right;
+  }
+  .lImage {
+    float: left;
+  }
 }
 @media (min-width: 768px) {
   .header-nav {
