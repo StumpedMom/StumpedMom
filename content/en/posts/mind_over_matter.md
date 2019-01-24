@@ -1,7 +1,7 @@
 ---
 title: "Mind Over Matter"
 date: 2019-01-23T19:49:15-08:00
-draft: true
+draft: false
 ---
 
 Mind over Matter
