@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Stumped Mom</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 10:55:22 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 19:44:45 -0800</lastBuildDate>
     
 	<atom:link href="https://StumpedMom.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Creeper</title>
+      <link>https://StumpedMom.com/2019/02/07/my-first-creeper/</link>
+      <pubDate>Thu, 07 Feb 2019 19:44:45 -0800</pubDate>
+      
+      <guid>https://StumpedMom.com/2019/02/07/my-first-creeper/</guid>
+      <description>My First Creeper Dear Stumpers:
+I’m about to let you in behind the scenes of StumpedMom.com. While the casual or even careful reader could never be blamed for assuming I pull this entire website out of my ass. I try to organize my ideas and put them out in an organized and orderly fashion. I use an Airtable (Please sponsor me) spreadsheet to organize my work from the idea stage, through to publishing.</description>
+    </item>
     
     <item>
       <title>Monday Mom Hacks Infant Stytle</title>
@@ -204,17 +214,6 @@ I hope that one of the things I can accomplish through sharing is to show that I
       <description>The Casual Cruelty of Scrooge Shaming Proceed with care and self directed compassion.This post deals with trauma triggers surrounding the loss of a child.
 Dear Stumpers:
 The clock has struck! Tis Thanksgiving and America has officially plunged into a six week, long commercially fueled onslaught of seasonal Christmas themed celebration, commonly known as the Holiday Season. An army of Christmas enthusiasts enabled by naked commercial interest go to work and transform virtually all public, commercial and private spaces (save those of the non Christian religions) to conform to their concept of winter festiveness.</description>
-    </item>
-    
-    <item>
-      <title>Catalogue of Privledge</title>
-      <link>https://StumpedMom.com/2018/11/20/catalogue-of-privledge/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://StumpedMom.com/2018/11/20/catalogue-of-privledge/</guid>
-      <description>Catalogue of Privilege Stumpers:
-Do you mind if I call you Stumpers? It feels more personal than Dear Reader.
-One of the principles I have committed myself in this endeavor is include “privilege awareness”. I operate on the theory that the first step to creating a more equitable and just society is to acknowledge inequality. For those of us that benefit in some way from inequality we need to be able to name those benefits, we must be aware of our privilege.</description>
     </item>
     
   </channel>
