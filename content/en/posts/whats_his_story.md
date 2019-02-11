@@ -1,5 +1,5 @@
 ---
-title: "What's His Story?"
+title: "What's His Story"
 date: 2019-02-10T09:36:39-08:00
 tags: ["The Body Politic"]
 categories: ["Posts"]
