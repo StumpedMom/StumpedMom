@@ -3,8 +3,7 @@ title: "Wake Up Call"
 date: 2019-04-02T16:23:11-07:00
 tags: ["Features"]
 categories: ["Posts"]
-
-draft: true
+draft: false
 ---
 ___A word of caution to readers: This post deals with suicidal ideation and impulses to self harm.___
 
