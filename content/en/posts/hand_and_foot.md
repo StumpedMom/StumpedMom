@@ -2,7 +2,7 @@
 title: "Hand and Foot"
 date: 2019-05-21
 tags: ["The Body Politic"]
-draft: true
+draft: false
 ---
 
 ___Caution: this post deals with violence toward women___
