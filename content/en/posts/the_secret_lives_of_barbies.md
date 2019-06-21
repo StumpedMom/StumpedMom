@@ -3,7 +3,7 @@ title: "The Secret Lives of Barbies"
 date: 2019-06-21T11:55:48-07:00
 tags: ["The Body Politic"]
 categories: ["Posts"]
-draft: true
+draft: false
 ---
 
 ## The Secret Lives of Barbies
