@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://StumpedMom.com/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://StumpedMom.com/about_me/</loc>
     <lastmod>2018-10-14T12:27:38-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://StumpedMom.com/2021/08/15/secret-husbands-lost-jobs-and-dead-alter-egos/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -19,6 +26,13 @@
   <url>
     <loc>https://StumpedMom.com/2019/05/24/words/</loc>
     <lastmod>2019-05-24T12:18:26-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://StumpedMom.com/content/posts/hand_and_foot/</loc>
+    <lastmod>2019-05-21T16:27:54-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -281,6 +295,13 @@
   </url>
   
   <url>
+    <loc>https://StumpedMom.com/content/</loc>
+    <lastmod>2019-05-21T16:27:54-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://StumpedMom.com/tag/cyber-sluttery/</loc>
     <lastmod>2019-04-06T12:20:15-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -289,7 +310,7 @@
   
   <url>
     <loc>https://StumpedMom.com/tag/features/</loc>
-    <lastmod>2019-04-02T16:23:11-07:00</lastmod>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
@@ -317,7 +338,7 @@
   
   <url>
     <loc>https://StumpedMom.com/posts/</loc>
-    <lastmod>2019-06-21T11:55:48-07:00</lastmod>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
