@@ -104,7 +104,7 @@ name = "Stumped Mom"
       name = "Twitter"
       weight = 10
       identifier = "twitter"
-      url = "https://twitter.com/StumpedMom"
+      url = "https://twitter.com/MomStumped"
 
     [[languages.en.menu.social]]
       name = "Facebook"
