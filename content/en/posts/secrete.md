@@ -10,7 +10,7 @@ draft: false
 
 Dear Stumpers:
 
-Today’s Advisory: This post is rated H for heavy; contains themes of real death, real loss, real life and real death. 
+Today’s Advisory: This post is rated H for heavy; contains themes of real death, real loss, real life and real consequences. 
 
 
 My beloved grandmother had a secret first husband. While she was in the blossom of her youth, (some-time between 1939 and 1942), she ran away from her home in Oregon eloped and moved to Chicago. He abused her, she called home for help, and her brothers went out the midwest to retrieve her.  She lived at home with her parents, babysat and rosie’d, her way through the war and into the 1950’s unti, at the perilously mature age of 29, she met and married another sort of scoundrel, my grandfather. 
