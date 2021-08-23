@@ -7,8 +7,8 @@ draft: false
 ---
 ## Monthly Mindfulness
 
-Religion is the opium of the people. It is the sigh of the oppressed creature, the heart of a heartless world, and the soul of our soulless conditions.-Karl Marx
-
+_Religion is the opium of the people. It is the sigh of the oppressed creature, the heart of a heartless world, and the soul of our soulless conditions._-Karl Marx
+<br></br>
 
 
 “Monthly Mindfulness Zoom session starts in 10 minutes,” Chimed the automated google calendar alert. 
@@ -20,7 +20,7 @@ I logged in while still fussing with my headset and my audio settings. I haven�
 
 Other co-workers from teams all over the country are already chiming in. The COO is already on the call. 
 
-Glad I showed up. I haven’t been logging very many billable hours this week, I wouldn’t want to be missed in the free meditation session, I don’t want to look like I don’t care about improving myself. 
+_Glad I showed up. I haven’t been logging very many billable hours this week, I wouldn’t want to be missed in the free meditation session, I don’t want to look like I don’t care about improving myself._
 
 Our mindfulness expert is a pleasant mannered woman with bleach blonde hair and bright pink lipstick.  She is sitting in front of a neutral backdrop with chakra symbols stenciled onto the,  residential wall behind her. 
 A fake palm tree with fairy lights looms over her on the left side of the frame. 
@@ -35,7 +35,7 @@ I’m still breathing in but my co-workers are already chiming in to the chat wi
 
 “Let us start with a body scan, starting at the top of the head,”
 
-Oh I know this one 
+_Oh I know this one_
 
 I take a deep Breath in and I’m still breathing in and she has already forcefully breathed out and she’s giving more instructions.
 
@@ -43,7 +43,7 @@ I take a deep Breath in and I’m still breathing in and she has already forcefu
 
 In that breath I  had already moved to my chest. Okay back to my neck.
 
-“With only about half of the U.S. population fully vaccinated against the novel coronavirus, hospitals across the country are straining to respond to a deadly fourth surge of infections driven by the delta variant.” [Washington Post Says](https://www.washingtonpost.com/health/2021/08/18/covid-hospitals-delta/)
+### <span style="color:grey">_“With only about half of the U.S. population fully vaccinated against the novel coronavirus, hospitals across the country are straining to respond to a deadly fourth surge of infections driven by the delta variant.” [Washington Post Says](https://www.washingtonpost.com/health/2021/08/18/covid-hospitals-delta/)</span>_
 
 “And Let out another deep breath.”
 
@@ -51,21 +51,21 @@ I haven’t finished filling my lungs with the last in-breath.  I can’t get in
 
 “Now scan your body. Where are you feeling the most tension or strain? “
 
-Oh here is the part where we breathe into the part of our body with the most tension.I got this!
+_Oh here is the part where we breathe into the part of our body with the most tension.I got this!_
 
 I start taking in a long slow breath imagining I’m filling the stabbing knot in my neck with happy, warm loving  space. 
 
 “Now imagine a warm blanket.”
 
-Blanket thing? We've never done a blanket thing! Ok blanket I’m draping myself with the warm -
+_Blanket thing? We've never done a blanket thing! Ok blanket I’m draping myself with the warm -_
 
 “Maybe it's right out of the dryer”
 
-Cancel blanket draping. Initiate blanket out of the dryer. Do not think about how you need to clean the laundry room. 
+_Cancel blanket draping. Initiate blanket out of the dryer. Do not think about how you need to clean the laundry room._
 
 “Wrap that part of yourself with the warm blanket and feel ensconce you with comfort”
 
-This remains a pandemic of the unvaccinated.- [White house press Briefing](https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-50/)
+### <span style="color:grey">_This remains a pandemic of the unvaccinated.- [White house press Briefing](https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-50/)</span>_
 
 “And now your at the precipice of...”
 
@@ -74,7 +74,7 @@ In the space of that very pregnant pause, I’m totally contemplating the cold h
 
 “A warm body of water.”
 
-Cancel existential dread cliff, initiating  my  South Pacific fantasy reel. 
+_Cancel existential dread cliff, initiating  my  South Pacific fantasy reel._
 
 I imagine the salty, azure lagoons I only know from the pictures in my clients vacation photos and the shots of The White Lotus. My bare feet are patting down fine, toasty sand. I wade in and float my consciousness as instructed. 
 
@@ -89,7 +89,7 @@ I take another breath and open my eyes but I’m ahead of things again. She says
 “Now take one more deep breath and focus on the two words that speak your truth now at the end of the session.”
 
 
-Is FML one word or three? 
+#### _Is FML one word or three?_
 
 
 
