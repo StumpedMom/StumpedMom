@@ -43,7 +43,7 @@ I take a deep Breath in and I’m still breathing in and she has already forcefu
 
 In that breath I  had already moved to my chest. Okay back to my neck.
 
-“With only about half of the U.S. population fully vaccinated against the novel coronavirus, hospitals across the country are straining to respond to a deadly fourth surge of infections driven by the delta variant.” [Washington Post Says] (https://www.washingtonpost.com/health/2021/08/18/covid-hospitals-delta/)
+“With only about half of the U.S. population fully vaccinated against the novel coronavirus, hospitals across the country are straining to respond to a deadly fourth surge of infections driven by the delta variant.” [Washington Post Says](https://www.washingtonpost.com/health/2021/08/18/covid-hospitals-delta/)
 
 “And Let out another deep breath.”
 
@@ -65,7 +65,7 @@ Cancel blanket draping. Initiate blanket out of the dryer. Do not think about ho
 
 “Wrap that part of yourself with the warm blanket and feel ensconce you with comfort”
 
-This remains a pandemic of the unvaccinated.- [White house press Briefing ] (https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-50/)
+This remains a pandemic of the unvaccinated.- [White house press Briefing](https://www.whitehouse.gov/briefing-room/press-briefings/2021/08/18/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-50/)
 
 “And now your at the precipice of...”
 
