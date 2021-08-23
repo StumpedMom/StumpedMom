@@ -5,6 +5,7 @@ tags: ["Features"]
 categories: ["Posts"]
 draft: false
 ---
+## Monthly Mindfulness
 
 Religion is the opium of the people. It is the sigh of the oppressed creature, the heart of a heartless world, and the soul of our soulless conditions.-Karl Marx
 
