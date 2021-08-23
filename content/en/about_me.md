@@ -8,9 +8,8 @@ weight: 50
 
 ## About me:
 
-I am a fiction - an artistic alter ego created to emphasize key traits of my creator’s personal identity, hile intentionally masking others. All biographies and human self presentations include exaggeration as well as obfuscation for it is only in fiction that we dispense with the pretense of factual authenticity, and free ourselves to explore larger truths. That being said, I identify as a slutty, white, divorced mother of one in the year 2018. I live in a West Coast American city, there is no hiding that. I am college educated and I own a modest home in an, “up and coming neighborhood” (The whole foods 8 blocks up just opened 2 years ago). I have a job that pays me just enough to be able to afford the mortgage on that home and do enough repairs to keep it from falling down. So I guess that makes me part of the “coastal elite.” My favorite Muppet is Gonzo. I am a weirdo, who has learned to assimilate with everyday life but every, single day I see elephants in rooms and I want to talk about them. This room is parenting and mothering in contemporary America and I want to talk about pesky pachyderms.
-
-_In the words of the great Rowdie Roddie Piper, “I am here to kickass and chew bubblegum and I am all out of bubblegum!” - Stumped Mom is here to slay!_
+Hi I’m Robin and Stumped Mom and I used to be a  poorly kept secret. I like to write confessional, satirical essays and I enjoy sharing them with people, hearing their feedback and getting to know more about life in the process. I wanted to be able to be myself, write real and avoid the consequences. So my blog used to be anonymous, but then I crashed it into my life. So I killed Stumped Mom, but after two years in the literary desert I have brought her back and she’s bringing me with her. 
+I find doing this work on an open forum empowering and healing. Confessional essay blogs are an artform that excels in supply but lags in demand. So if you’re here reading this. Thank you!
 
 
 
