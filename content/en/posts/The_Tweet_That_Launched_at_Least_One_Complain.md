@@ -1,5 +1,5 @@
 ---
-title: "The Tweet That Launched at Least One Complain"
+title: "The Tweet That Launched at Least One Complaint"
 date: 2021-09-02T19:51:34-07:00
 tags: ["Features"]
 categories: ["Posts"]
