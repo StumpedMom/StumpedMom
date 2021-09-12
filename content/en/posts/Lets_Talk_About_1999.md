@@ -1,5 +1,5 @@
 ---
-title: "Lets_Talk_About_1999"
+title: "Lets Talk About 1999"
 date: 2021-09-12T15:55:04-07:00
 tags: ["The Body Politic"]
 categories: ["Posts"]
