@@ -5,6 +5,7 @@ tags: ["Features"]
 categories: ["Posts"]
 draft: false
 ---
+## Hemophilia Hustle Part I
 
 Dear Stumpers:
 
@@ -31,12 +32,12 @@ There is nothing straightforward about this story. It is the story of my family 
 This post is the launch of a new multi-part series, “Hemophilia Hustle” . 
 
 
-Part I: Jon’s * Ghost 
+### Part I: Jon’s * Ghost 
 
 
-For the first 14 years of my life hemophilia was a ghost story. The history was oral, the facts were confused.  The ghost’s manifestations were so frightening, rational adults would act like it wasn’t real.  For me this ghost had a face, his fine features appeared in the family album in grayscale, and sepia tones. He was invariably thin, in all of his short life’s stages, often leaning on a crutch, or a sibling, or being pulled along in a wagon or a cart. His mouth was shaped much like mine and jaw like my older sisters. I like to think his smile might have looked like ours, but he’s never smiling. He was my mother’s younger brother Jon and I knew just a few things about him. He died right before my older sister was born, he had hemophilia and grownups got upset whenever they talked about it. 
+For the first 14 years of my life hemophilia was a ghost story. The history was oral, the facts were confused.  The ghost’s manifestations were so frightening, rational adults would act like it wasn’t real. For me this ghost had a face, his fine features appeared in the family album in grayscale, and sepia tones. He was invariably thin, in all of his short life’s stages, often leaning on a crutch, or a sibling, or being pulled along in a wagon or a cart. His mouth was shaped much like mine and jaw like my older sisters. I like to think his smile might have looked like ours, but he’s never smiling. He was my mother’s younger brother Jon and I knew just a few things about him. He died right before my older sister was born, he had hemophilia and grownups got upset whenever they talked about it. 
 
-When it came to the family histories my mother was by far the most locacious and forthcoming  source of information.  As a source she was dubious at best. Mom is known broadly as an unreliable narrator who gets facts confused and omits convenient facts that don’t fit into her worldview. My mother said he died in an accident near Bremerton Washington, where he was living with my grandfather.  My parents were in Frankfurt Germany, stationed with the US Army and my mother was about to give birth to Sarah when it happened. This no doubt contributed to the fog surrounding this critical family event. My grandmother wouldn’t talk about it. The memories were so painful, she did not like to have his name spoken in her presence.  My sister once brought home a boy for thanksgiving named John, grandma insisted on calling him Greg. 
+ <img src="../../../../images/jon_img.png" alt="Jon Img" style="display:inline; width:revert; height:revert; float:left;margin-top: revert;margin-right: 25px;margin-bottom: 25px;" />When it came to the family histories my mother was by far the most locacious and forthcoming  source of information.  As a source she was dubious at best. Mom is known broadly as an unreliable narrator who gets facts confused and omits convenient facts that don’t fit into her worldview. My mother said he died in an accident near Bremerton Washington, where he was living with my grandfather.  My parents were in Frankfurt Germany, stationed with the US Army and my mother was about to give birth to Sarah when it happened. This no doubt contributed to the fog surrounding this critical family event. My grandmother wouldn’t talk about it. The memories were so painful, she did not like to have his name spoken in her presence.  My sister once brought home a boy for thanksgiving named John, grandma insisted on calling him Greg. 
 
 My big sister, Sarah, was also a source of information. She was always quite willing to share tidbits of info with me that the grownups didn’t want us to know.  One such secret she whispered to me in the cozy intimacy of the bottom bunk.  We had older brothers, twins, who died at birth. Sarah duug out one of the last remaining relics of Jon’s existence;  a snare drum head that spelled out his full name. I used to stare at the design and wonder about him, what the pattern meant. It looks like a star of David but we are not by any accounts Jewish, it looked vaguely ritualistic to me, and I was always unnerved by the object. Mom never touched it. 
 
